@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiotechDNAAnalyzer", "BiotechDNAAnalyzer.csproj", "{1CAD6915-7FA3-42A3-B5ED-54B9F8A1C8B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CAD6915-7FA3-42A3-B5ED-54B9F8A1C8B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CAD6915-7FA3-42A3-B5ED-54B9F8A1C8B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CAD6915-7FA3-42A3-B5ED-54B9F8A1C8B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CAD6915-7FA3-42A3-B5ED-54B9F8A1C8B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA8D4DAD-6BB4-44AD-B174-3994989D4856}
+	EndGlobalSection
+EndGlobal
